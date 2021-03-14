@@ -1,4 +1,5 @@
 # document-as-code : Parser
+> A parser that compute your document's meta with defined fields through configuration files
 
 ## Purpose
 > A node library to parse a document defintion from a yaml template    
